@@ -2,6 +2,8 @@
 
 You CANNOT deploy to Vercel, Netifly, GitHub Pages, or Cloudflare pages. They are static hosts, they just act as a web facing file system, you need the actual proxy for this to work.
 
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template/ZweBXA)
+
 <!--
                                 _     _                     _       _   _          _                               _    
      /\                        | |   | |                   | |     | \ | |        | |                             | |   
